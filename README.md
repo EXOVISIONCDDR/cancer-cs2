@@ -16,6 +16,7 @@ Educational/research purposes only. Author not liable for VAC bans or account lo
 
 ## 🧬 Features
 
+<img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/87fee23a-2717-4715-b9cb-141fd321a4d3" /> <img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/2ff48f39-b3a8-43ee-a99d-bb53c65f72a1" /> <img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/f2c93f8f-1658-4787-aabe-ee9b1de35302" />
 | Module | Details |
 |--------|---------|
 | **ESP** | Box, skeleton, health, distance, name, weapons, bomb, visibility check |
@@ -23,8 +24,6 @@ Educational/research purposes only. Author not liable for VAC bans or account lo
 | **Triggerbot** | Randomized delay, hold/toggle, burst fire, team check |
 | **RadarHack** | Full reveal, directional arrows, zoom scaling |
 | **LUA Scripts** | Full 5.3 API, event hooks, imgui bindings, HTTP, hot-reload |
-
-<img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/87fee23a-2717-4715-b9cb-141fd321a4d3" /> <img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/2ff48f39-b3a8-43ee-a99d-bb53c65f72a1" /> <img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/f2c93f8f-1658-4787-aabe-ee9b1de35302" />
 
 ---
 
