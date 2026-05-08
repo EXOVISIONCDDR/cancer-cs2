@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-undetected-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
-[CS2](https://img.shields.io/badge/CS2-latest-orange)
+![CS2](https://img.shields.io/badge/CS2-latest-orange)
 
 
 ---
@@ -11,7 +11,7 @@
 ## ⚠️ DISCLAIMER
 Educational/research purposes only. Author not liable for VAC bans or account losses.
 
-![Download](https://github.com/EXOVISIONCDDR/cancer-cs2/releases/tag/upd)
+[Download](https://github.com/EXOVISIONCDDR/cancer-cs2/releases/tag/upd)
 ---
 
 ## 🧬 Features
