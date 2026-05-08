@@ -34,7 +34,7 @@ Educational/research purposes only. Author not liable for VAC bans or account lo
 2. Download `Cancer.zip`
 3. Disable Defender / add exclusion
 4. Extract, launch CS2, run `Cancer.exe` as Admin
-5. `INSERT` 
+5. Press the `LOAD` button and enjoy the game
 
 ---
 
