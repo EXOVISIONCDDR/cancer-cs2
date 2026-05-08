@@ -24,9 +24,7 @@ Educational/research purposes only. Author not liable for VAC bans or account lo
 | **RadarHack** | Full reveal, directional arrows, zoom scaling |
 | **LUA Scripts** | Full 5.3 API, event hooks, imgui bindings, HTTP, hot-reload |
 
-<img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/87fee23a-2717-4715-b9cb-141fd321a4d3" />
-<img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/2ff48f39-b3a8-43ee-a99d-bb53c65f72a1" />
-<img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/f2c93f8f-1658-4787-aabe-ee9b1de35302" />
+<img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/87fee23a-2717-4715-b9cb-141fd321a4d3" /> <img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/2ff48f39-b3a8-43ee-a99d-bb53c65f72a1" /> <img width="640" height="306" alt="image" src="https://github.com/user-attachments/assets/f2c93f8f-1658-4787-aabe-ee9b1de35302" />
 
 ---
 
@@ -36,7 +34,7 @@ Educational/research purposes only. Author not liable for VAC bans or account lo
 2. Download `Cancer.zip`
 3. Disable Defender / add exclusion
 4. Extract, launch CS2, run `Cancer.exe` as Admin
-5. `INSERT` to open menu
+5. `INSERT` 
 
 ---
 
